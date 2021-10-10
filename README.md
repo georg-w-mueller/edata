@@ -1,6 +1,7 @@
 # Edata
 
-**TODO: Add description**
+1 | Transducers: Functions transforming reducer functions, see Rich Hickey (inventor of Clojure)
+2 | Datalog: Inference mechanisms for logical reasoning
 
 ## Installation
 
