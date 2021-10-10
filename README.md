@@ -1,8 +1,8 @@
 # Edata
-
+**
 1 | Transducers: Functions transforming reducer functions, see Rich Hickey (inventor of Clojure)
 2 | Datalog: Inference mechanisms for logical reasoning
-
+**
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
